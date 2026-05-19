@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFD4E5;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #FF82B4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #FFB85B;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  color: #FFB85B;
+}
+
+.me{
+  width: 250px;
+  height: 200px;
+  padding: 100px;
+}
+
+.fit{
+width: 200px;
+height: 200px;
+padding: 100px;
+
+}
+
+.tennis{
+  width: 270px;
+  height: 200px;
+  padding: 100px;
+}
+
+
